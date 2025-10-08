@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe Page
 
-![Design preview for the Recipe Page challenge](./assets/preview.jpg)
+![Design preview for the Recipe Page challenge](./design/desktop-design.jpg)
 
 ## Welcome! 👋
 
@@ -25,7 +25,7 @@ I focused on using semantic HTML, a mobile-first approach, and styling with CSS 
 
 ## Live Demo
 
-Check out the live version here: [Live Demo](https://your-live-site-url.com)  
+Check out the live version here: [Live Demo](https://asha-16.github.io/recipe-page-main/)  
 
 ---
 
